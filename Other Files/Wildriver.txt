@@ -1,0 +1,4 @@
+Links of WildRiver during development
+https://github.com/Santhosh17/WildRiver.git
+Admin---> http://www.projectsouk.com/wildriverb2b/admin
+Dealer---> http://www.projectsouk.com/wildriverb2b/
